@@ -3,7 +3,7 @@
 
 ### Tecnologias
 
-- API di GitHub
+- API do GitHub
 - Axios
 - Babel
 - ES6+
